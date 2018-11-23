@@ -1,4 +1,4 @@
-package com.njindal;
+package com.njindal.examples;
 
 import static org.junit.Assert.assertTrue;
 
